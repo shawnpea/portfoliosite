@@ -1,0 +1,56 @@
+.nav-pills {
+  font-family: 'Abel', sans-serif;
+  font-size: 1.3em;
+  background-color:white;
+  padding: 5px;
+}
+
+.nav.nav-pills li a {
+  color: black;
+}
+
+.pgone {
+  background: url("https://images.unsplash.com/photo-1456391287547-4e7419fab154?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=d5f9669630dcd4fba2b645cddbe1f725");
+  background-size: cover;
+  height: 800px;
+  padding: 50px;
+}
+
+.pgtwo {
+  background: url("https://images.unsplash.com/photo-1453500920688-4442e4d16f50?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=b7067ba63be977e3c5d1fbd4a7c12bc7");
+  height: 800px;
+  background-size: cover;
+}
+
+body {
+  font-family: 'rufina', sans-serif;
+  padding-top: 20px;
+}
+
+h1 {
+  padding: 50px 0 25px 0;
+  margin-top: 0px;
+  font-size: 50px;
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 25px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 35px;
+  font-decoration: bold;
+  border-style: solid;
+  margin-left: 25px;
+  border-color: black;
+}
+
+.abtme {
+  color: black;
+  text-align: justify;
+  margin-left: 25px;
+}
